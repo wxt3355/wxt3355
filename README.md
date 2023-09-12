@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+![wxt3355's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxt3355)
+-->
+<h4>I code with:</h4>
+<img src="https://img.shields.io/badge/python-yellow"></img>
+<img src="https://img.shields.io/badge/django-green"></img>
+<img src="https://img.shields.io/badge/flutter-blue"></img>
+<img src="https://img.shields.io/badge/java-orange"></img>
+<img src="https://img.shields.io/badge/c/c++-brightgreen"></img>
